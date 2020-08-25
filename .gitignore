@@ -1,0 +1,5 @@
+# directories
+env/
+
+# files
+.DS_Store
